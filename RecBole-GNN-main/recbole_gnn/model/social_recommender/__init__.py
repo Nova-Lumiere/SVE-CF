@@ -1,0 +1,1 @@
+from recbole_gnn.model.social_recommender import svecf
